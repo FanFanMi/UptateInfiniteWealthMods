@@ -1,1 +1,0 @@
-The Hannya's summon skill can only spawn 8 Majimas, if it goes further the game will softlock.
